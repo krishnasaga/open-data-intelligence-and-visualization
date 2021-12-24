@@ -2,7 +2,6 @@
 Open data intelligence and visualisation 
 
 ## Abstract
-Abstract
 A general data intelligence and visualisation architecture allows the general public to analyse data irrespective of domain or use case. Using such technology, one can analyse any data they have access to irrespective of discipline and find their correlation. web3 provides the concessions of data using oracles and incentivised layer to reword the contributors. Data and visualisation are stored as NFTs. One can bring these NFTs into a metaverse leveraging on the internet of blockchains.  
 
 ## Introduction
