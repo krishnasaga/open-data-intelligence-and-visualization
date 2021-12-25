@@ -10,15 +10,19 @@ Human knowledge is currently scattered into distinct domains and disciplines, in
 ## Key Components
 
 ### Off-chain Data APIs and Data sets
+Data to be analysed will be retrieved from APIs, and Data sets maintained off-chain, which will be given as input to the visualiser or to the off-chain computer. 
 
 ### Off-chain compute
-To do computations on data  
+data analysis algorithms, including  AI or machine learning models, will be part of off-chain compute
 
 ### Abstract visulizatoin NFTs
+These are dynamic NFTs; the presentation of the same will change based on input data.
 
 ### Data-Intensive applications 
+Orchestrates the NFTs, data APIs and compute them to form an application.
 
 ### Metaverse
+Users can interact with data and NFTs in a metaverse. 
 
 
 ![OpenDataIntelegenceAndVisulizaton](https://user-images.githubusercontent.com/13312112/147391437-f7a36773-c736-45ca-9bac-d743ab198a8f.jpeg)
