@@ -16,7 +16,7 @@ Human knowledge is scattered into distinct domains and disciplines, including bu
 
 ### Data Processers
 
-### Visuals
+### Visuals
 
 ### Raw Data Sources
 
