@@ -11,7 +11,7 @@ Human knowledge is scattered into distinct domains and disciplines, including bu
 
  - Data Processers
  - Raw Data Sources
- - Visuals
+ - Micro User Interfaces
  - HTTP Gateway
 
 ### Data Processers
