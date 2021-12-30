@@ -22,7 +22,4 @@ Human knowledge is scattered into distinct domains and disciplines, including bu
 
 ### HTTP Gateway
 
-## Orchestrated application
-
-
-![OpenDataIntelegenceAndVisulizaton](https://user-images.githubusercontent.com/13312112/147391437-f7a36773-c736-45ca-9bac-d743ab198a8f.jpeg)
+### UI Orchestrator
