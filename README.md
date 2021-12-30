@@ -22,4 +22,4 @@ Human knowledge is scattered into distinct domains and disciplines, including bu
 
 ### HTTP Gateway
 
-### UI Orchestrator
+### User interface orchestration
