@@ -24,5 +24,5 @@ Human knowledge is scattered into distinct domains and disciplines, including bu
 
 ### Micro User interface orchestration
 
-They provide visualization and user interaction for a data visualization entity example, a line chart of a company review over time, A 3D representation of planet surface can be created in three JS. MUIs take data and events as input and produces graphical information and output. 
+They provide visualization and user interaction example, a line chart of a company review over time, A 3D representation of planet surface can be created in three JS. MUIs take data and events as input and produces graphical information and output. 
 
